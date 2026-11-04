@@ -1,0 +1,13 @@
+feature,coefficient,abs_coefficient
+categorical__lunch_standard,11.52399662132367,11.52399662132367
+categorical__race_ethnicity_group e,9.077934551991033,9.077934551991033
+categorical__test_preparation_course_none,-5.874513148425896,5.874513148425896
+categorical__gender_male,4.520714360576077,4.520714360576077
+categorical__parental_level_of_education_high school,-4.090503108207433,4.090503108207433
+categorical__race_ethnicity_group d,3.612131900224941,3.612131900224941
+categorical__parental_level_of_education_bachelor's degree,3.119050657249349,3.119050657249349
+categorical__parental_level_of_education_some high school,-2.8963916028359313,2.8963916028359313
+categorical__parental_level_of_education_master's degree,1.0746049728425418,1.0746049728425418
+categorical__race_ethnicity_group c,0.6028730652971499,0.6028730652971499
+categorical__race_ethnicity_group b,0.18236163859944843,0.18236163859944843
+categorical__parental_level_of_education_some college,-0.14500768312222773,0.14500768312222773
